@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tran_Anh_Minh</string>
+
+    <string-array name="friuts">
+        <item> Toyota</item>
+        <item> Chevrolet</item>
+        <item> Ford</item>
+        <item> Honda</item>
+        <item> Hyundai</item>
+        <item> Isuzu</item>
+        <item> Suzuki</item>
+        <item> Mitsubishi</item>
+        <item> Land Rover</item>
+        <item> Peugeot</item>
+        <item> Porsche</item>
+        <item> Volkswagen</item>
+        <item> Mercedes Benz</item>
+        <item> BMW</item>
+    </string-array>
+</resources>
